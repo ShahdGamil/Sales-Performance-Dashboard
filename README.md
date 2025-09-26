@@ -11,4 +11,19 @@ The dashboard highlights key insights, including identifying **Alexandria as the
 - **Slicers** to filter data interactively.  
 - **Dynamic charts** for visual trend analysis.  
 - Regional performance comparison.  
-- Time-based insights (11/2024 – 01/2025).  
+- Time-based insights.
+
+## 📌 Use Cases
+
+- Monitor sales performance
+- Analyze regional performance
+- Support business decision-making
+- Track sales trends over time
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel
+
+- PivotTables & Slicers
+
+- Dynamic Charts
